@@ -61,41 +61,10 @@ const columnsData = useMemo<any>(() => [ { label: 'timeStamp', name: 'TimeStamp'
 
 ![Search Example](https://github.com/SaiBarathR/Custom-Table/assets/58382813/5d9574dc-ca1d-4aa0-9e40-51f31d3386cf)
 
-## Libraries Used other than Next.js defaults: Chakra-Ui Chakra-icons
+## Libraries Used: Chakra-Ui
 
 **Advanced Version:**  [If you guys need a more advanced version then check out my custom table created using React with Ag-grid library](https://github.com/SaiBarathR/react-reusable-components/tree/main/Custom-Ag-Grid)
 
 Repo Link: https://github.com/SaiBarathR/react-reusable-components/tree/main/Custom-Ag-Grid
 
-## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-npm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
