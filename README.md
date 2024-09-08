@@ -2,6 +2,8 @@
 
 This is an npm package for creating tables in any React web application. With this package, you can create tables with pagination, sorting, and multi level filters. It's an lightweight and easy to use package with responsive design.
 
+[Check out the demo page](https://saibarathr.github.io/Reusable-Table/) for a live example.
+
 ### Installation
 
 ```bash
