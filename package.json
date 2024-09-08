@@ -27,5 +27,9 @@
     "concat-cli": "^4.0.0",
     "postcss-cli": "^11.0.0",
     "typescript": "^5.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaiBarathR/chakra-ui-table-library.git"
   }
 }
