@@ -1,6 +1,6 @@
 {
   "name": "chakra-ui-table-responsive",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "private": false,
   "scripts": {
     "concat:css": "concat -o src/styles/combined.css src/styles/chakraTable.css src/styles/tailwind.css ",
@@ -31,5 +31,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/SaiBarathR/chakra-ui-table-library.git"
-  }
+  },
+  "homepage": "https://saibarathr.github.io/Reusable-Table/"
 }
