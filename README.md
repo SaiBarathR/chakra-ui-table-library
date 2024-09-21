@@ -1,4 +1,8 @@
-## Chakra Table Component
+## Deprecated
+
+This package is deprecated and no longer maintained. Please use the updated version of the package [here](https://www.npmjs.com/package/react-table-responsive-sb).
+
+## React Table Component
 
 This is an npm package for creating tables in any React web application. With this package, you can create tables with pagination, sorting, and multi level filters. It's an lightweight and easy to use package with responsive design.
 
@@ -7,13 +11,13 @@ This is an npm package for creating tables in any React web application. With th
 ### Installation
 
 ```bash
-npm install chakra-ui-table-responsive
+npm install react-table-responsive
 ```
 
 ### Usage
 
 ```jsx
-import { ChakraTable } from "chakra-ui-table-responsive";
+import { ChakraTable } from "react-table-responsive";
 
 const sampleProps = {
   loading: false,
